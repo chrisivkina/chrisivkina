@@ -1,16 +1,23 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**chrisivkina/chrisivkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I am Chris Ivkina, a Dutch student software developer. I currently minor in Embedded Software but have a wide array of skills.
+Here I listed some of my best skills and accomplishments:
 
-Here are some ideas to get you started:
+- Developing intricate embedded device prototypes using various microcontrollers, such as STM32, ESP32, Arduino, Raspberry Pi Pico (W)
+- Developing dynamic web environments using the Flask framework for Python and various Flask plugins
+- Developing static web pages for personal and professional use
+- Developing efficient RESTful API solutions for a website that received ~10k visitors monthly
+- Creating a professional remote server environment using Docker-compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know several programming and markup languages, ordered here from most to least used personally:
+
+- Python
+- JavaScript
+- HTML/CSS
+- C/C++
+- Java
+- PHP
+
+This GitHub profile contains some of my personal projects as well as some professional repositories.
+
+Thank you for reading.
