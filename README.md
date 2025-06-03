@@ -20,4 +20,4 @@ I know several programming and markup languages, ordered here from most to least
 
 This GitHub profile contains some of my personal projects as well as some professional repositories.
 
-Read more at [my GitHub Pages site](https://chrisivkina.github.io/)
+Read more on [my GitHub Pages site](https://chrisivkina.github.io/).
