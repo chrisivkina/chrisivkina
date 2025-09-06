@@ -9,7 +9,7 @@ Here I listed some of my best skills and accomplishments:
 - Developing efficient RESTful API solutions for a website that received ~10k visitors monthly
 - Creating a professional remote server environment using Docker-compose
 
-I know several programming and markup languages, ordered here from most to least used personally:
+I know several programming and markup languages, including but not limited to:
 
 - Python
 - JavaScript
